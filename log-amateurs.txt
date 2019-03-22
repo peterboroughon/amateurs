@@ -1,0 +1,38 @@
+Log For The Young Amateurs
+
+Wed Oct  3 16:18:36 EDT 2018
+
+Starting word count
+
+ 104  521 3043 young-amateurs.md
+
+Thu Oct 18 20:24:17 EDT 2018
+
+Starting word count 
+
+ 206  912 5413 young-amateurs.md
+
+Ending word count
+
+ 233 1028 6079 young-amateurs.md
+
+
+Thu Nov  8 10:08:41 EST 2018
+
+
+  523  2471 14679 young-amateurs.md
+
+
+Wed Nov 21 21:05:52 EST 2018
+
+  704  3198 18952 young-amateurs.md
+
+
+Sat Nov 24 10:23:27 EST 2018
+
+
+  774  3506 20824 young-amateurs.md
+ 1339  6258 36538 young-amateurs.md
+Mon Jan 14 10:53:12 EST 2019
+ 1339  6258 36538 young-amateurs.md
+ 1386  6606 38519 young-amateurs.md
